@@ -105,7 +105,7 @@ Body:
 Make sure to include the **id** of the question you're trying to update in your
 request's url!
 
-## Resources
+## Resource
 
 - [Using `fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [React `fetch` with `useEffect` Example][react ajax]
